@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.env/
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# API credentials and secrets
+credentials.json
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+
+
+
+
+
